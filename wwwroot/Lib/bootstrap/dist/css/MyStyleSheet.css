@@ -1,0 +1,12 @@
+﻿body {
+    color:#333;
+}
+
+.tableTitlesize{
+    font-size:1rem;
+    font-weight:600;
+}
+
+.my-container {
+    margin-top: 2rem;
+}

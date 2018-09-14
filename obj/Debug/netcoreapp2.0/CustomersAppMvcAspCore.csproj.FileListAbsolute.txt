@@ -1,0 +1,11 @@
+C:\Users\Ugesh\source\repos\CustomersAppMvcAspCore\CustomersAppMvcAspCore\obj\Debug\netcoreapp2.0\CustomersAppMvcAspCore.csprojAssemblyReference.cache
+C:\Users\Ugesh\source\repos\CustomersAppMvcAspCore\CustomersAppMvcAspCore\obj\Debug\netcoreapp2.0\CustomersAppMvcAspCore.csproj.CoreCompileInputs.cache
+C:\Users\Ugesh\source\repos\CustomersAppMvcAspCore\CustomersAppMvcAspCore\obj\Debug\netcoreapp2.0\CustomersAppMvcAspCore.AssemblyInfoInputs.cache
+C:\Users\Ugesh\source\repos\CustomersAppMvcAspCore\CustomersAppMvcAspCore\obj\Debug\netcoreapp2.0\CustomersAppMvcAspCore.AssemblyInfo.cs
+C:\Users\Ugesh\source\repos\CustomersAppMvcAspCore\CustomersAppMvcAspCore\bin\Debug\netcoreapp2.0\CustomersAppMvcAspCore.deps.json
+C:\Users\Ugesh\source\repos\CustomersAppMvcAspCore\CustomersAppMvcAspCore\bin\Debug\netcoreapp2.0\CustomersAppMvcAspCore.runtimeconfig.json
+C:\Users\Ugesh\source\repos\CustomersAppMvcAspCore\CustomersAppMvcAspCore\bin\Debug\netcoreapp2.0\CustomersAppMvcAspCore.runtimeconfig.dev.json
+C:\Users\Ugesh\source\repos\CustomersAppMvcAspCore\CustomersAppMvcAspCore\bin\Debug\netcoreapp2.0\CustomersAppMvcAspCore.dll
+C:\Users\Ugesh\source\repos\CustomersAppMvcAspCore\CustomersAppMvcAspCore\bin\Debug\netcoreapp2.0\CustomersAppMvcAspCore.pdb
+C:\Users\Ugesh\source\repos\CustomersAppMvcAspCore\CustomersAppMvcAspCore\obj\Debug\netcoreapp2.0\CustomersAppMvcAspCore.dll
+C:\Users\Ugesh\source\repos\CustomersAppMvcAspCore\CustomersAppMvcAspCore\obj\Debug\netcoreapp2.0\CustomersAppMvcAspCore.pdb
